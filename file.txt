@@ -1,7 +1,7 @@
-Hello, world!
+Hello, world!***
 Another line...
   Even more
   lines...
-Lawton's fork's changes
+Lawton's fork's changes***
 Added in test1 branch.
 Added this change in the master branch
